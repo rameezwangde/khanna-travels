@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "tinacms build && vite build",
+    "build": "tinacms build --skip-cloud-checks --skip-search-index --content=local && vite build",
     "preview": "vite preview --host 0.0.0.0",
     "lint": "eslint .",
     "cms": "tinacms dev -c \"vite --host 0.0.0.0\"",
-    "cms:build": "tinacms build"
+    "cms:build": "tinacms build --skip-cloud-checks --skip-search-index --content=local"
   },
   "dependencies": {
     "@tinacms/cli": "^2.2.6",
