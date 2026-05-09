@@ -1,6 +1,7 @@
 import { defineConfig } from "tinacms";
 
 const env = globalThis.process?.env || {};
+const cleanEnv = (value) => (value ? String(value).trim().replace(/[\r\n"'`]/g, "") : undefined);
 
 const singletonUi = {
   allowedActions: {
@@ -24,9 +25,9 @@ const stringList = (name, label) => ({
 });
 
 export default defineConfig({
-  branch: env.TINA_BRANCH || env.VERCEL_GIT_COMMIT_REF || env.HEAD || "main",
-  clientId: env.TINA_CLIENT_ID,
-  token: env.TINA_TOKEN,
+  branch: cleanEnv(env.TINA_BRANCH || env.VERCEL_GIT_COMMIT_REF || env.HEAD) || "main",
+  clientId: cleanEnv(env.TINA_CLIENT_ID),
+  token: cleanEnv(env.TINA_TOKEN),
   build: {
     publicFolder: "public",
     outputFolder: "admin"

@@ -1,6 +1,7 @@
 // tina/config.js
 import { defineConfig } from "tinacms";
 var env = globalThis.process?.env || {};
+var cleanEnv = (value) => value ? String(value).trim().replace(/[\r\n"'`]/g, "") : void 0;
 var singletonUi = {
   allowedActions: {
     create: false,
@@ -20,9 +21,9 @@ var stringList = (name, label) => ({
   list: true
 });
 var config_default = defineConfig({
-  branch: env.TINA_BRANCH || env.VERCEL_GIT_COMMIT_REF || env.HEAD || "main",
-  clientId: env.TINA_CLIENT_ID,
-  token: env.TINA_TOKEN,
+  branch: cleanEnv(env.TINA_BRANCH || env.VERCEL_GIT_COMMIT_REF || env.HEAD) || "main",
+  clientId: cleanEnv(env.TINA_CLIENT_ID),
+  token: cleanEnv(env.TINA_TOKEN),
   build: {
     publicFolder: "public",
     outputFolder: "admin"
