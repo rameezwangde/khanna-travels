@@ -1,6 +1,8 @@
-import { socials } from "../data/siteData";
+import { useContent } from "../content/contentContext.jsx";
 
 export default function SocialSidebar() {
+  const { socials } = useContent();
+
   return (
     <aside className="fixed left-5 top-1/2 z-40 hidden -translate-y-1/2 flex-col gap-3 xl:flex">
       {socials.map(({ label, href, icon: Icon }) => (

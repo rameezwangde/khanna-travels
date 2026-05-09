@@ -7,9 +7,12 @@
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
     "preview": "vite preview --host 0.0.0.0",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "cms": "tinacms dev -c \"vite --host 0.0.0.0\"",
+    "cms:build": "tinacms build"
   },
   "dependencies": {
+    "@tinacms/cli": "^2.2.6",
     "@vitejs/plugin-react": "^5.0.0",
     "framer-motion": "^12.23.12",
     "gsap": "^3.13.0",
@@ -19,7 +22,9 @@
     "react-dom": "^18.3.1",
     "react-helmet-async": "^2.0.5",
     "react-router-dom": "^7.8.2",
-    "swiper": "^11.2.10"
+    "styled-components": "^6.4.1",
+    "swiper": "^11.2.10",
+    "tinacms": "^3.7.6"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",

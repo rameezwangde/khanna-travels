@@ -7,13 +7,19 @@ import InquiryForm from "../components/InquiryForm";
 import SEO from "../components/SEO";
 import SectionHeading from "../components/SectionHeading";
 import TestimonialsSection from "../sections/TestimonialsSection";
-import { destinations } from "../data/siteData";
+import { useContent } from "../content/contentContext.jsx";
 
 export default function DestinationPage() {
   const { slug } = useParams();
+  const { destinations } = useContent();
   const destination = destinations.find((item) => item.slug === slug) || destinations[0];
-  const similar = useMemo(() => destinations.filter((item) => item.slug !== destination.slug).slice(0, 8), [destination.slug]);
-  const gallery = [destination.image, "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=85", "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85"];
+  const similar = useMemo(() => destinations.filter((item) => item.slug !== destination.slug).slice(0, 8), [destination.slug, destinations]);
+  const gallery = [
+    destination.image,
+    ...(destination.gallery?.map((image) => image.url || image).filter(Boolean) || []),
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=85",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85"
+  ].filter(Boolean).slice(0, 3);
 
   return (
     <>

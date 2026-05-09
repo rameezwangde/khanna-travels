@@ -3,9 +3,11 @@ import Hero from "../components/Hero";
 import InquiryForm from "../components/InquiryForm";
 import SEO from "../components/SEO";
 import SectionHeading from "../components/SectionHeading";
-import { contact } from "../data/siteData";
+import { useContent } from "../content/contentContext.jsx";
 
 export default function Contact() {
+  const { contact } = useContent();
+
   return (
     <>
       <SEO title="Contact Us" description="Contact Khanna Travels for luxury holidays, visas, flights, cruises, and corporate travel from Navi Mumbai." />

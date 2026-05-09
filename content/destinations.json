@@ -1,0 +1,670 @@
+{
+  "destinations": [
+    {
+      "slug": "bali",
+      "title": "Bali",
+      "region": "Indonesia",
+      "summary": "Temple sunsets, cliff villas, jungle retreats, and private beach clubs.",
+      "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1800&q=85",
+      "duration": "6N / 7D",
+      "price": "On request",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "japan",
+      "title": "Japan",
+      "region": "Asia",
+      "summary": "Cherry blossoms, ryokans, bullet trains, cuisine, and precise cultural immersion.",
+      "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1800&q=85",
+      "duration": "7N / 8D",
+      "price": "From INR 89,000",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "dubai",
+      "title": "Dubai",
+      "region": "Middle East",
+      "summary": "Skyline glamour, desert safaris, shopping, and five-star family escapes.",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1800&q=85",
+      "duration": "8N / 9D",
+      "price": "From INR 1,25,000",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "vietnam",
+      "title": "Vietnam",
+      "region": "Asia",
+      "summary": "Lantern-lit towns, limestone bays, street food, and handcrafted touring.",
+      "image": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1800&q=85",
+      "duration": "6N / 7D",
+      "price": "On request",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "kashmir",
+      "title": "Kashmir",
+      "region": "India",
+      "summary": "Houseboats, pine valleys, alpine meadows, and serene Himalayan romance.",
+      "image": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=1800&q=85",
+      "duration": "7N / 8D",
+      "price": "From INR 89,000",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "kerala",
+      "title": "Kerala",
+      "region": "India",
+      "summary": "Backwaters, Ayurveda, tea estates, wildlife, and slow coastal luxury.",
+      "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1800&q=85",
+      "duration": "8N / 9D",
+      "price": "From INR 1,25,000",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "switzerland",
+      "title": "Switzerland",
+      "region": "Europe",
+      "summary": "Alpine rail journeys, lakeside hotels, glacier views, and refined cities.",
+      "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1800&q=85",
+      "duration": "6N / 7D",
+      "price": "On request",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "europe",
+      "title": "Europe",
+      "region": "World",
+      "summary": "Classic capitals, scenic rail, boutique stays, and curated multi-country routes.",
+      "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1800&q=85",
+      "duration": "7N / 8D",
+      "price": "From INR 89,000",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "scandinavia",
+      "title": "Scandinavia",
+      "region": "Europe",
+      "summary": "Northern lights, fjords, glass cabins, design-led cities, and arctic wonder.",
+      "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1800&q=85",
+      "duration": "8N / 9D",
+      "price": "From INR 1,25,000",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "kenya",
+      "title": "Kenya",
+      "region": "Africa",
+      "summary": "Luxury safaris, great migration landscapes, lodges, and Indian Ocean extensions.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1800&q=85",
+      "duration": "6N / 7D",
+      "price": "On request",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "malaysia",
+      "title": "Malaysia",
+      "region": "Asia",
+      "summary": "Kuala Lumpur, Langkawi, rainforests, islands, and family-friendly escapes.",
+      "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?auto=format&fit=crop&w=1800&q=85",
+      "duration": "7N / 8D",
+      "price": "From INR 89,000",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "singapore",
+      "title": "Singapore",
+      "region": "Asia",
+      "summary": "Urban gardens, luxury shopping, Sentosa, family attractions, and fine dining.",
+      "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=1800&q=85",
+      "duration": "8N / 9D",
+      "price": "From INR 1,25,000",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "thailand",
+      "title": "Thailand",
+      "region": "Asia",
+      "summary": "Island resorts, Bangkok energy, wellness retreats, and private cultural touring.",
+      "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?auto=format&fit=crop&w=1800&q=85",
+      "duration": "6N / 7D",
+      "price": "On request",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "australia",
+      "title": "Australia",
+      "region": "Oceania",
+      "summary": "Sydney, reefs, road trips, wildlife, vineyards, and vast coastal drama.",
+      "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=1800&q=85",
+      "duration": "7N / 8D",
+      "price": "From INR 89,000",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "new-zealand",
+      "title": "New Zealand",
+      "region": "Oceania",
+      "summary": "Glaciers, lakes, self-drives, lodges, adventure, and cinematic scenery.",
+      "image": "https://images.unsplash.com/photo-1469521669194-babb45599def?auto=format&fit=crop&w=1800&q=85",
+      "duration": "8N / 9D",
+      "price": "From INR 1,25,000",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "abu-dhabi",
+      "title": "Abu Dhabi",
+      "region": "Middle East",
+      "summary": "Museums, islands, desert resorts, Yas experiences, and Arabian elegance.",
+      "image": "https://images.unsplash.com/photo-1512632578888-169bbbc64f33?auto=format&fit=crop&w=1800&q=85",
+      "duration": "6N / 7D",
+      "price": "On request",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "paris",
+      "title": "Paris",
+      "region": "Europe",
+      "summary": "Iconic monuments, couture, culinary rituals, museums, and romantic city stays.",
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1800&q=85",
+      "duration": "7N / 8D",
+      "price": "From INR 89,000",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    },
+    {
+      "slug": "egypt",
+      "title": "Egypt",
+      "region": "Africa",
+      "summary": "Pyramids, Nile cruises, ancient temples, Red Sea add-ons, and guided history.",
+      "image": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1800&q=85",
+      "duration": "8N / 9D",
+      "price": "From INR 1,25,000",
+      "highlights": [
+        "Private airport transfers",
+        "Curated luxury hotel selection",
+        "Signature local experiences",
+        "Dedicated Khanna Travels support"
+      ],
+      "itinerary": [
+        "Arrival, private transfer, welcome briefing, and relaxed first evening.",
+        "Landmark orientation with a locally guided cultural experience.",
+        "Scenic day journey with premium dining and photography stops.",
+        "Leisure day with optional spa, shopping, adventure, or family activities.",
+        "Signature excursion designed around the destination's strongest experience.",
+        "Final breakfast, airport assistance, and onward travel support."
+      ],
+      "faqs": [
+        [
+          "Can this itinerary be customized?",
+          "Yes. Every journey can be adjusted for pace, hotels, budget, celebrations, and travel style."
+        ],
+        [
+          "Do you include flights and visas?",
+          "Flights, visa guidance, insurance, hotels, transfers, and experiences can all be handled end to end."
+        ],
+        [
+          "Is support available during travel?",
+          "Yes. The Khanna Travels team provides active coordination before and during the journey."
+        ]
+      ]
+    }
+  ]
+}

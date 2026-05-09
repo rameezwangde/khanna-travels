@@ -1,13 +1,14 @@
 import { useEffect, useRef } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { useContent } from "../content/contentContext.jsx";
 import SectionHeading from "../components/SectionHeading";
-import { stats } from "../data/siteData";
 
 gsap.registerPlugin(ScrollTrigger);
 
 export default function WhySection() {
   const root = useRef(null);
+  const { stats } = useContent();
   useEffect(() => {
     const ctx = gsap.context(() => {
       gsap.from(".reveal", { opacity: 0, y: 36, stagger: 0.12, duration: 0.9, scrollTrigger: { trigger: root.current, start: "top 70%" } });

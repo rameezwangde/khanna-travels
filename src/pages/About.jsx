@@ -1,9 +1,11 @@
 import Hero from "../components/Hero";
 import SEO from "../components/SEO";
 import SectionHeading from "../components/SectionHeading";
-import { stats, team, values } from "../data/siteData";
+import { useContent } from "../content/contentContext.jsx";
 
 export default function About() {
+  const { stats, team, values } = useContent();
+
   return (
     <>
       <SEO title="About Us" description="Learn about Khanna Travels, an IATA-accredited Navi Mumbai travel agency crafting personalized holidays since 2009." />

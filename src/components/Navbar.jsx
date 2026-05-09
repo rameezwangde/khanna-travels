@@ -2,7 +2,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { ChevronDown, Menu, Phone, X } from "lucide-react";
 import { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
-import { contact, destinations, services } from "../data/siteData";
+import { useContent } from "../content/contentContext.jsx";
 
 const mainLinks = [
   { label: "About", to: "/about" },
@@ -16,6 +16,7 @@ const mainLinks = [
 export default function Navbar() {
   const [open, setOpen] = useState(false);
   const [mobile, setMobile] = useState(false);
+  const { contact, destinations, services } = useContent();
   const featured = destinations.slice(0, 12);
 
   return (

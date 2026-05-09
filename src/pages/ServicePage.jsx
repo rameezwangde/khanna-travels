@@ -1,12 +1,13 @@
 import { useParams } from "react-router-dom";
+import { useContent } from "../content/contentContext.jsx";
 import Hero from "../components/Hero";
 import InquiryForm from "../components/InquiryForm";
 import SEO from "../components/SEO";
 import SectionHeading from "../components/SectionHeading";
-import { corporateFeatures, services } from "../data/siteData";
 
 export default function ServicePage({ slug: propSlug }) {
   const params = useParams();
+  const { corporateFeatures, services } = useContent();
   const slug = propSlug || params.slug;
   const service = services.find((item) => item.slug === slug) || services[0];
   const isCorporate = service.slug === "corporate-travel";

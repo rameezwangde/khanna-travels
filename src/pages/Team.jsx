@@ -1,9 +1,11 @@
 import Hero from "../components/Hero";
 import SEO from "../components/SEO";
 import SectionHeading from "../components/SectionHeading";
-import { team } from "../data/siteData";
+import { useContent } from "../content/contentContext.jsx";
 
 export default function Team() {
+  const { team } = useContent();
+
   return (
     <>
       <SEO title="Our Team" />

@@ -1,8 +1,9 @@
 import { Link } from "react-router-dom";
+import { useContent } from "../content/contentContext.jsx";
 import SectionHeading from "../components/SectionHeading";
-import { destinations } from "../data/siteData";
 
 export default function DestinationGrid({ limit, title = "Curated Destinations" }) {
+  const { destinations } = useContent();
   const items = limit ? destinations.slice(0, limit) : destinations;
   return (
     <section className="py-24">

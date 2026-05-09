@@ -1,8 +1,10 @@
 import { Link } from "react-router-dom";
+import { useContent } from "../content/contentContext.jsx";
 import SectionHeading from "../components/SectionHeading";
-import { services } from "../data/siteData";
 
 export default function ServicesSection() {
+  const { services } = useContent();
+
   return (
     <section className="border-y border-gold/10 bg-white/[0.025] py-24">
       <div className="luxury-container">

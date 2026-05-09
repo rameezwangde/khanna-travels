@@ -1,8 +1,10 @@
 import { Link } from "react-router-dom";
 import { Mail, MapPin, Phone } from "lucide-react";
-import { contact, destinations, services, socials } from "../data/siteData";
+import { useContent } from "../content/contentContext.jsx";
 
 export default function Footer() {
+  const { contact, destinations, services, socials } = useContent();
+
   return (
     <footer className="border-t border-gold/15 bg-[#050b14] py-16">
       <div className="luxury-container">

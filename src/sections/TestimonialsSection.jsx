@@ -1,10 +1,12 @@
 import { Quote } from "lucide-react";
 import { Autoplay, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
+import { useContent } from "../content/contentContext.jsx";
 import SectionHeading from "../components/SectionHeading";
-import { reviews } from "../data/siteData";
 
 export default function TestimonialsSection() {
+  const { reviews } = useContent();
+
   return (
     <section className="bg-white/[0.025] py-24">
       <div className="luxury-container">

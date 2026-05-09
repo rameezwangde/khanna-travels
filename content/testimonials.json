@@ -1,0 +1,29 @@
+{
+  "reviews": [
+    {
+      "name": "Ranjit Rajput",
+      "trip": "Europe Family Journey",
+      "quote": "Our 11-night Italy and Switzerland trip was memorable. Hotels, train connections, reminders, guidance, and daily support made it comfortable and stress-free."
+    },
+    {
+      "name": "Kunda Jaggi",
+      "trip": "Vietnam",
+      "quote": "Our 15-day Vietnam trip was planned beautifully, from hotels and sightseeing to transfers and guides. The team made it relaxing, fun, and memorable."
+    },
+    {
+      "name": "Swayamprabha Rajput",
+      "trip": "Italy Visa",
+      "quote": "Dhvani handled our Italy visa application with professionalism, patience, clarity, and prompt communication. The process felt smooth and stress-free."
+    },
+    {
+      "name": "Shrikant Pandey",
+      "trip": "Turkey Visa",
+      "quote": "The visa processing service was excellent. Manisha guided every step, answered queries patiently, and ensured all documents were in order."
+    },
+    {
+      "name": "Shilpa Marwah",
+      "trip": "Vietnam",
+      "quote": "Everything was smooth and well organized on our 8-day Vietnam tour. The itinerary was well planned and the team was always responsive."
+    }
+  ]
+}

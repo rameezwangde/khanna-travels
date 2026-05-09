@@ -1,0 +1,92 @@
+fragment HomeParts on Home {
+  __typename
+  eyebrow
+  title
+  goldWord
+  subtitle
+  mapImageUrl
+  secondaryCta
+  secondaryCtaLink
+  primaryCta
+  primaryCtaLink
+}
+
+fragment SettingsParts on Settings {
+  __typename
+  contact {
+    __typename
+    phones
+    email
+    hours
+    address
+    whatsapp
+  }
+}
+
+fragment DestinationsParts on Destinations {
+  __typename
+  destinations {
+    __typename
+    title
+    slug
+    region
+    summary
+    image
+    gallery {
+      __typename
+      url
+    }
+    duration
+    price
+    highlights
+    itinerary
+    faqs {
+      __typename
+      question
+      answer
+    }
+  }
+}
+
+fragment ServicesParts on Services {
+  __typename
+  services {
+    __typename
+    title
+    navTitle
+    slug
+    summary
+    heroImage
+    highlights
+  }
+}
+
+fragment TestimonialsParts on Testimonials {
+  __typename
+  reviews {
+    __typename
+    name
+    trip
+    quote
+  }
+}
+
+fragment TeamParts on Team {
+  __typename
+  team {
+    __typename
+    name
+    role
+    image
+  }
+}
+
+fragment SocialFeedParts on SocialFeed {
+  __typename
+  instagramFeed {
+    __typename
+    caption
+    href
+    image
+  }
+}

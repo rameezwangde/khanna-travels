@@ -1,11 +1,13 @@
 import { useEffect, useRef } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { useContent } from "../content/contentContext.jsx";
 import { PrimaryButton, SecondaryButton } from "../components/Buttons";
 
 gsap.registerPlugin(ScrollTrigger);
 
 export default function HomeHero() {
+  const { homePage } = useContent();
   const section = useRef(null);
   const title = useRef(null);
   const map = useRef(null);
@@ -81,7 +83,7 @@ export default function HomeHero() {
     <section ref={section} className="relative h-screen overflow-hidden">
       <img
         ref={map}
-        src="https://upload.wikimedia.org/wikipedia/commons/8/83/Equirectangular_projection_SW.jpg"
+        src={homePage.mapImageUrl}
         alt="World map"
         className="absolute inset-0 h-full w-full object-cover opacity-70"
       />
@@ -96,12 +98,12 @@ export default function HomeHero() {
       </div>
       <div ref={title} className="luxury-container relative z-10 flex h-full items-center">
         <div className="max-w-5xl pt-20">
-          <p className="mb-5 text-xs font-extrabold uppercase tracking-[0.42em] text-gold">Holidays Redefined</p>
-          <h1 className="font-serif text-6xl font-black leading-[0.9] text-ivory md:text-8xl lg:text-[9.5rem]">Explore The <span className="text-gold">Unseen</span></h1>
-          <p className="mt-7 max-w-2xl text-lg leading-8 text-ivory/74 md:text-xl">Bespoke holidays, visa expertise, corporate travel, cruises, flights, and deeply personal journeys designed by an IATA-accredited travel house since 2009.</p>
+          <p className="mb-5 text-xs font-extrabold uppercase tracking-[0.42em] text-gold">{homePage.eyebrow}</p>
+          <h1 className="font-serif text-6xl font-black leading-[0.9] text-ivory md:text-8xl lg:text-[9.5rem]">{homePage.title} <span className="text-gold">{homePage.goldWord}</span></h1>
+          <p className="mt-7 max-w-2xl text-lg leading-8 text-ivory/74 md:text-xl">{homePage.subtitle}</p>
           <div className="mt-10 flex flex-wrap gap-4">
-            <SecondaryButton to="/destinations/bali">Discover Journeys</SecondaryButton>
-            <PrimaryButton to="/contact">Book Consultation</PrimaryButton>
+            <SecondaryButton to={homePage.secondaryCtaLink}>{homePage.secondaryCta}</SecondaryButton>
+            <PrimaryButton to={homePage.primaryCtaLink}>{homePage.primaryCta}</PrimaryButton>
           </div>
         </div>
       </div>
